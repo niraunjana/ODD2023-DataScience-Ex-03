@@ -65,3 +65,4 @@ df.kurtosis()
 Superstore.csv
 ```
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/f5f03565-7e64-445d-aece-fafd988b162c)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/3e0c2e7f-9665-4e81-8eb3-27c42137a2f7)
