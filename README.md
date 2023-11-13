@@ -78,4 +78,12 @@ Superstore.csv
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/c67baf58-945b-4c3a-bb43-6aa24c51743b)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/2b3db5a5-979b-4dba-bdb1-d3df1d88bcba)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/43f67a44-7cf9-4967-95da-d549a9f671d4)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/362d91b5-f474-4e7d-b8c5-f4665c413763)
+```
 
+Diabetes.csv
+```
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/8c025644-7288-450a-a511-92e90614b19f)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/0f6f752d-6370-4061-adba-572e5649e992)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/0d883b88-bf10-4490-83a2-94a51ca0fcb0)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/8479ad6b-35c2-4b76-b012-ce2c76de33b0)
