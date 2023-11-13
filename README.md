@@ -87,3 +87,4 @@ Diabetes.csv
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/0f6f752d-6370-4061-adba-572e5649e992)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/0d883b88-bf10-4490-83a2-94a51ca0fcb0)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/8479ad6b-35c2-4b76-b012-ce2c76de33b0)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/6da9c239-c63f-44e3-a129-2602dd82acfe)
