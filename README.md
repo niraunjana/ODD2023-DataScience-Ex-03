@@ -68,4 +68,5 @@ Superstore.csv
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/62763bc6-2965-4b74-ada0-c515db417d95)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/ecae53ae-1547-45e8-8eab-3df4e139e2cd)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/bdca6dd8-39cd-4092-9b09-8fc496c558cb)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/57baca18-7056-4ee2-ab79-0d5130974dd5)
 
