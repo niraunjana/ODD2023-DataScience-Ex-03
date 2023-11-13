@@ -88,3 +88,11 @@ Diabetes.csv
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/0d883b88-bf10-4490-83a2-94a51ca0fcb0)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/8479ad6b-35c2-4b76-b012-ce2c76de33b0)
 ![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/6da9c239-c63f-44e3-a129-2602dd82acfe)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/df961b0d-5f7d-4908-8f79-ceb299d1f20a)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/72fac76a-f250-4e4c-839a-af90e22b1865)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/535967de-c1af-446d-a862-c39386f0ccc8)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/65ade28f-b152-419a-9110-c5b8942885c1)
+![image](https://github.com/niraunjana/ODD2023-DataScience-Ex-03/assets/119395610/73c98ca2-120c-4293-b591-378d4f5e1b11)
+
+### RESULT
+Hence the univariate analysis is performed on the given dataset.
